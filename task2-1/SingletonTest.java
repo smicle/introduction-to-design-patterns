@@ -10,13 +10,6 @@ public class SingletonTest {
     System.out.println("renban2");
     System.out.println(renban2.getNumber());
     System.out.println(renban2.getNumber());
-    System.out.println("""
-    a
-    b
-    c
-    d
-    e
-    """);
   }
 }
 
