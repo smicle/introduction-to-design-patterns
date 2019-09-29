@@ -10,7 +10,7 @@ public class SingletonTest {
       .forEach(v -> System.out.println(renban1.getNumber()));
     System.out.println("renban2");
     IntStream.range(0, 5)
-      .forEach(v -> System.out.println(renban1.getNumber()));
+      .forEach(v -> System.out.println(renban2.getNumber()));
   }
 }
 
