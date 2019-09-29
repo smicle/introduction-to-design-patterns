@@ -1,7 +1,7 @@
 public class SingletonTest {
   public static void main(String[] args) {
-    Renban renban1 = Renban.getInstance();
-    Renban renban2 = Renban.getInstance();
+    var renban1 = Renban.getInstance();
+    var renban2 = Renban.getInstance();
 
     System.out.println("renban1");
     System.out.println(renban1.getNumber());
@@ -26,7 +26,6 @@ class Renban {
   }
 
   public static String getNumber() {
-    number = String.format("%04d", Integer.parseInt(number) + 1);
-    return number;
+    return number = String.format("%04d", Integer.parseInt(number) + 1);
   }
 }
