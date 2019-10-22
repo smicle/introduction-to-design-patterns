@@ -11,3 +11,4 @@ java --enable-preview
 [Task3-1](https://github.com/smicle/introduction-to-design-patterns/tree/master/task3-1)  
 [Task4-1](https://github.com/smicle/introduction-to-design-patterns/tree/master/task4-1)  
 [Task5-1](https://github.com/smicle/introduction-to-design-patterns/tree/master/task5-1)  
+[Task6-2](https://github.com/smicle/introduction-to-design-patterns/tree/master/task6-2)  
