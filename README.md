@@ -2,8 +2,8 @@
 
 ## runtime options
 ```
-javac -encoding UTF-8 --enable-preview --release 13 -Xlint:preview
-java --enable-preview
+javac -encoding UTF-8 --enable-preview --release 13 -Xlint:preview *.java
+java --enable-preview XXXX
 ```
 
 ## resources
